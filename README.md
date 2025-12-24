@@ -20,6 +20,14 @@ Expected:
 
 "result": []
 
+
+
+This API token will affect the below accounts and zones, along with their respective permissions All accounts - Email Sending:Edit, Email Routing Addresses:Edit All zones - Email Routing Rules:Edit, Zone:Read
+
+
+
+
+
 UI
 
 Cloudflare Dashboard →
