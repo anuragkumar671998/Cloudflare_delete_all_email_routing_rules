@@ -1,11 +1,11 @@
 ▶️ RUN IT
-chmod +x cf_delete_all_email_routing_rules.sh
-./cf_delete_all_email_routing_rules.sh
+chmod +x delete_all_email_routing_rules.sh
+./delete_all_email_routing_rules.sh
 
 
 
 
-git clone  https://github.com/anuragkumar671998/Cloudflare_delete_all_email_routing_rules.git && cd Cloudflare_delete_all_email_routing_rules && chmod +x cf_delete_all_email_routing_rules.sh &&  sudo ./cf_delete_all_email_routing_rules.sh
+git clone  https://github.com/anuragkumar671998/Cloudflare_delete_all_email_routing_rules.git && cd Cloudflare_delete_all_email_routing_rules && chmod +x delete_all_email_routing_rules.sh &&  sudo ./delete_all_email_routing_rules.sh
  
 
 
